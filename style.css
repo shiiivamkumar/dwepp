@@ -1,0 +1,148 @@
+.parent1{
+    position: absolute;
+    width: 1440px;
+    height: 592px;
+    left: 0px;
+    top: -1px;
+    background: #FFCD9E;
+}
+.parent2{
+    position: absolute;
+    width: 1440px;
+    height: 298px;
+    left: 0px;
+    top: 592px;
+    background: #282828;
+}
+.img2{
+    position: absolute;
+    /* left: 15.98%; */
+    right: 13.58%;
+    top: 11.55%;
+    bottom: 11.51%;
+    display: inline-block;
+    /* background: #100F0D; */
+}
+.child1{
+    position: absolute;
+    width: 562px;
+    height: 108px;
+    left: 136px;
+    top: 83px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 150%;
+    /* or 54px */
+    display: inline-block;
+    color: #282828
+}
+.child2{
+    position: absolute;
+    width: 495px;
+    height: 81px;
+    left: 136px;
+    top: 219px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 160%;
+    /* or 32px */
+    display: flex;
+    align-items: center;
+    color: #484848;
+}
+.child3{
+    position: absolute;
+    width: 227px;
+    height: 81px;
+    left: 136px;
+    top: 315px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 160%;
+    /* or 32px */
+    display: flex;
+    align-items: center;
+    color: #282828;
+}
+.input1{
+    box-sizing: border-box;
+    position: absolute;
+    width: 344px;
+    height: 64px;
+    left: 136px;
+    top: 411px;
+    background: #FFFFFF;
+    border: 4px solid #000000;
+    border-radius: 8px;
+}
+.But01{
+    position: absolute;
+    width: 216px;
+    height: 64px;
+    left: 496px;
+    top: 411px;
+    background: #282828;
+    border-radius: 8px;
+}
+
+.child4{
+    position: absolute;
+    width: 344px;
+    height: 61px;
+    left: 184px;
+    top: 479px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 160%;
+    /* or 26px */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.p2Child1{
+    position: relative;
+    left: 136px;
+    display: inline-block;
+}
+.p2Child2{
+    position: relative;
+    left: 720px;
+    display: inline-block;
+}
+.Cc1{
+    width: 216px;
+    height: 36px;
+    left: 136px;
+    top: 654px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    display: inline-flexbox;
+    color: #FFFFFF;
+}
+.p2child2child1{
+width: 220px;
+height: 36px;
+left: 1099px;
+top: 654px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+text-align: right;
+color: #FFFFFF;
+display: inline-flexbox;
+}
